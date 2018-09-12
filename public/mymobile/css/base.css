@@ -1,0 +1,12 @@
+.my-header {
+  background-color: #006699;
+}
+.my-header h1 {
+  color: #fff;
+}
+.footer {
+  background-color: #006699;
+}
+.footer > span {
+  color: #fff;
+}
